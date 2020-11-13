@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Random User App</string>
+
+    <string name="loading_error">Error loading users</string>
+    <string name="internet_problems">Perhaps internet problems or service is not available currently</string>
+    <string name="refresh">Try load again</string>
+
+    <string name="contacts">Contacts</string>
+    <string name="location">Location</string>
+    <string name="full_name_age">%s, %d years old</string>
+    <string name="country">Country: %s</string>
+    <string name="state">State: %s</string>
+    <string name="city">City: %s</string>
+    <string name="street">Street: %s</string>
+    <string name="postcode">Postcode: %s</string>
+    <string name="timezone">Time zone: %s</string>
+
+</resources>
